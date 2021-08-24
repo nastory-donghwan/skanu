@@ -1,4 +1,5 @@
 ﻿# sktkanumodel
+ ..
  
  # 구현
  
